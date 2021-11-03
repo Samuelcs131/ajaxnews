@@ -23,3 +23,9 @@ Inicie o servidor
 ##### `npm start`
 
 Em seguida importe o arquivo do banco de dados MySQL e conecte no backend
+
+##
+ 
+<p align="center">
+<img width="600" src="https://github.com/Samuelcs131/ajaxnews.github.io/blob/main/demo-blog-ajaxNews.gif" />
+</p>
